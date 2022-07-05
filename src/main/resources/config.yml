@@ -1,0 +1,15 @@
+itens:
+  compass:
+    item: '345 : 1 : nome>&eMinigames'
+    action: 'command>tell{player} &6&lSOLAR IS THE BEST!'
+    slot: 0
+  profile:
+    item: '397:3 : 1 : dono>{player} : nome>&ePerfil'
+    action: 'command>tell{player} &6&lSOLAR IS THE BEST!'
+    slot: 4
+  lobby:
+    item: 'NETHER_STAR : 1 : nome>&eLobby'
+    action: 'command>tell{player} &6&lSOLAR IS THE BEST!'
+    slot: 8
+
+#actions disponíveis: tell, command, console
